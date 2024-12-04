@@ -20,11 +20,17 @@ Accedeix al directori del projecte:   cd 2.1-Bases-de-Dades
 ▶️ Execució
 
 Nivell 1
+
     Exercici 1
+    
       Obre els fitxers optica.sql i optica.mwb amb MySQL Workbench
+      
     Exercici 2
+    
       Obre els fitxers pizzeria.sql i pizzeria.mwb amb MySQL Workbench
+      
 Nivell 2
+
       Obre els fitxers youtube.sql i youtube.mwb amb MySQL Workbench
     
 
